@@ -232,7 +232,9 @@ Check the event details such as:
 
 ![img](ScreenShots/img.png)
 ---
+## Conclusion
 
+Through this project, I learned how endpoint monitoring works in real time, how Wazuh detects file changes using Syscheck, and how alerts are generated and analyzed in the dashboard. I also understood agent-manager communication and how security alerts are validated.
 
 
 
